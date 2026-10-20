@@ -88,5 +88,5 @@ Customers were segmented using an adapted **RFM** model (Recency and Monetary sc
 [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle, CC BY-NC-SA 4.0). Values are in Brazilian reais (R$). Customer data in the dataset is anonymised.
 
 ## Author
-**Zufishaa Ayub**, MSc Business Analytics, University of Greenwich
+**Zufishaa Ayub**, 
 [LinkedIn](http://linkedin.com/in/zufishaa-ayub-19b515248) · [GitHub](https://github.com/zufishaa)
